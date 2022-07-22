@@ -1,0 +1,11 @@
+D:\source\repos\Forms\Forms\bin\Debug\Forms.exe.config
+D:\source\repos\Forms\Forms\bin\Debug\Forms.exe
+D:\source\repos\Forms\Forms\bin\Debug\Forms.pdb
+D:\source\repos\Forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+D:\source\repos\Forms\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\Forms\Forms\obj\Debug\Forms.Form1.resources
+D:\source\repos\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\source\repos\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+D:\source\repos\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+D:\source\repos\Forms\Forms\obj\Debug\Forms.exe
+D:\source\repos\Forms\Forms\obj\Debug\Forms.pdb
